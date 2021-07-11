@@ -4,6 +4,8 @@ add tabel barang
 
 update tabel barang
 ![image](https://user-images.githubusercontent.com/81373389/125188314-aef41600-e25d-11eb-8242-c2c88bf3d5c7.png)
+![image](https://user-images.githubusercontent.com/81373389/125188477-23c75000-e25e-11eb-9bad-e4c226bf11cc.png)
+
 
 hapus tabel barang
 
